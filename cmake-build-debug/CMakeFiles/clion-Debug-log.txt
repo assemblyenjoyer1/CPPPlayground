@@ -1,0 +1,4 @@
+"/Users/reisst/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/reisst/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/232.9559.58/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/reisst/cplus/projects -B /Users/reisst/cplus/projects/cmake-build-debug
+-- Configuring done (0.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /Users/reisst/cplus/projects/cmake-build-debug
