@@ -69,7 +69,7 @@ void ToDoList::evaluateChoice(int choice) {
 }
 
 void ToDoList::setName() {
-    std::string userInput = "";
+    std::string userInput;
     std::cout << "Enter name > ";
 
     getline(std::cin, userInput);
@@ -80,7 +80,7 @@ void ToDoList::setName() {
 }
 
 void ToDoList::insertTask() {
-    std::string userInput = "";
+    std::string userInput;
     std::cout << "Aufgabe hinzufügen:\n(q, um die Eingabe abzubrechen" << std::endl;
     do {
         std::cout << "> ";
